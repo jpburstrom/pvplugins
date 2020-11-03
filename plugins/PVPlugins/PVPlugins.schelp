@@ -1,0 +1,26 @@
+class:: PVPlugins
+summary:: A collection of FFT plugins
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+A collection of FFT plugins
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ PVPlugins.ar(/* TODO */) }.play
+
+::
